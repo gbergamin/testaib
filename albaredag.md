@@ -11,9 +11,8 @@ Benedettino, entrato in monastero nel 1904, pronunciò i voti solenni nel 1914.
 Dal 1913 al 1915 studiò a Roma, dove ottenne la laurea in teologia al Collegio 
 internazionale benedettino di S. Anselmo. Ordinato sacerdote nello stesso anno, 
 cominciò a dedicarsi agli studi storico-eruditi e pubblicò lavori catalografici e 
-bibliografici: <em>Manuscrits de la Biblioteca de Monserrat</em> (1917), 
-<em>La imprenta de Monserrat: segles XV i XVI</em> (1919), 
-<em>L'Arxiu de Monserrat</em> (1920). Nel 1917 fu l'iniziatore e promotore 
+bibliografici: *Manuscrits de la Biblioteca de Monserrat* (1917), 
+*La imprenta de Monserrat: segles XV i XVI* (1919), 
 della collana erudita «Analecta Montserratensia» e nel 1926 della «Catalonia monastica», 
 che alla metà degli anni Cinquanta si fonderanno; in quegli anni, inoltre, 
 fondò e diresse la tipografia dell'Abbazia benedettina di Monserrat.
