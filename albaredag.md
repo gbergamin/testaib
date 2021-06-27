@@ -93,9 +93,3 @@ Petrucciani](/su-questo-sito/redazione-aib-web/)
 
 -----
 
-<div data-align="CENTER">
-
-[AIB-WEB](/) | [Pubblicazioni AIB](/pubblicazioni/) | [DBBI20 Indice
-delle voci](dbbi20.htm)
-
-</div>
