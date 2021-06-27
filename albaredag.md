@@ -28,7 +28,7 @@ in Terrasanta. Scrisse una storia del monastero di Monserrat (1931),
 una biografia del suo fondatore, l'abate Oliva, e la ricostruzione 
 del soggiorno di sant'Ignazio nell'abbazia (1935).
 
-Il 18 giugno 1936 il papa <a href="ratti.htm">Pio XI</a> lo nominò 
+Il 18 giugno 1936 il papa [Pio XI](ratti.htm) lo nominò 
 prefetto della Biblioteca apostolica vaticana, carica che ricoprì 
 per oltre venticinque anni. Nello stesso anno ottenne anche la nomina di 
 bibliotecario membro in soprannumero della Pontificia accademia delle 
