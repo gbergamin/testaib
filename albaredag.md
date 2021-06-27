@@ -1,35 +1,18 @@
-![\[AIB\]](/aib/wi/aibv72.gif) ** AIB. Pubblicazioni. DBBI20**  
-
-<div data-align="CENTER">
-
-[AIB-WEB](/) | [Pubblicazioni AIB](/pubblicazioni/) | [DBBI20 Indice
-delle voci](dbbi20.htm)
-
-</div>
-
------
 
 ### Dizionario bio-bibliografico dei bibliotecari italiani del XX secolo
 
-<table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><img src="albareda.jpg" alt="[Ritratto]" height="250" /></td>
-<td><h2 id="albareda-anselmo-maria-gioacchino-prima-del-noviziato">Albareda, Anselmo Maria<br />
-(Gioacchino, prima del noviziato)</h2>
-<p>(Barcellona, Spagna, 16 febbraio 1892 – Barcellona 20 luglio 1966)</p>
-<p>Benedettino, entrato in monastero nel 1904, pronunciò i voti solenni nel 1914. Dal 1913 al 1915 studiò a Roma, dove ottenne la laurea in teologia al Collegio internazionale benedettino di S. Anselmo. Ordinato sacerdote nello stesso anno, cominciò a dedicarsi agli studi storico-eruditi e pubblicò lavori catalografici e bibliografici: <em>Manuscrits de la Biblioteca de Monserrat</em> (1917), <em>La imprenta de Monserrat: segles XV i XVI</em> (1919), <em>L'Arxiu de Monserrat</em> (1920). Nel 1917 fu l'iniziatore e promotore della collana erudita «Analecta Montserratensia» e nel 1926 della «Catalonia monastica», che alla metà degli anni Cinquanta si fonderanno; in quegli anni, inoltre, fondò e diresse la tipografia dell'Abbazia benedettina di Monserrat.<br />
-Nel 1921 tornò a Roma, dove ottenne il diploma di archivista e paleografo presso la Scuola vaticana e successivamente perfezionò gli studi sul metodo della ricerca storica in Germania, alla scuola di Heinrich Finke.<br />
-Ritornato a Montserrat nel 1924, ebbe l'incarico di riordinare l'Archivio e si dedicò alla pubblicazione di documenti sulla storia catalana; compì numerosi viaggi di studio all'estero e, nel 1927, un pellegrinaggio in Terrasanta. Scrisse una storia del monastero di Monserrat (1931), una biografia del suo fondatore, l'abate Oliva, e la ricostruzione del soggiorno di sant'Ignazio nell'abbazia (1935).<br />
-Il 18 giugno 1936 il papa <a href="ratti.htm">Pio XI</a> lo nominò prefetto della Biblioteca apostolica vaticana, carica che ricoprì per oltre venticinque anni. Nello stesso anno ottenne anche la nomina di bibliotecario membro in soprannumero della Pontificia accademia delle scienze (di cui divenne membro effettivo nel 1960), e l'anno seguente quella di consultore della Sacra congregazione dei riti per la sezione storica; più tardi divenne consultore della Sacra congregazione dei seminari e università e abate titolare di Ripoll.<br />
-</p></td>
-</tr>
-</tbody>
-</table>
+<img src="albareda.jpg" alt="[Ritratto]" height="250" />
+
+## Albareda, Anselmo Maria (Gioacchino, prima del noviziato)
+(Barcellona, Spagna, 16 febbraio 1892 – Barcellona 20 luglio 1966)
+Benedettino, entrato in monastero nel 1904, pronunciò i voti solenni nel 1914. 
+Dal 1913 al 1915 studiò a Roma, dove ottenne la laurea in teologia al Collegio internazionale benedettino di S. Anselmo. Ordinato sacerdote nello stesso anno, cominciò a dedicarsi agli studi storico-eruditi e pubblicò lavori catalografici e bibliografici: <em>Manuscrits de la Biblioteca de Monserrat</em> (1917), <em>La imprenta de Monserrat: segles XV i XVI</em> (1919), <em>L'Arxiu de Monserrat</em> (1920). 
+
+Nel 1917 fu l'iniziatore e promotore della collana erudita «Analecta Montserratensia» e nel 1926 della «Catalonia monastica», che alla metà degli anni Cinquanta si fonderanno; in quegli anni, inoltre, fondò e diresse la tipografia dell'Abbazia benedettina di Monserrat.
+Nel 1921 tornò a Roma, dove ottenne il diploma di archivista e paleografo presso la Scuola vaticana e successivamente perfezionò gli studi sul metodo della ricerca storica in Germania, alla scuola di Heinrich Finke.
+Ritornato a Montserrat nel 1924, ebbe l'incarico di riordinare l'Archivio e si dedicò alla pubblicazione di documenti sulla storia catalana; compì numerosi viaggi di studio all'estero e, nel 1927, un pellegrinaggio in Terrasanta. Scrisse una storia del monastero di Monserrat (1931), una biografia del suo fondatore, l'abate Oliva, e la ricostruzione del soggiorno di sant'Ignazio nell'abbazia (1935).
+
+Il 18 giugno 1936 il papa <a href="ratti.htm">Pio XI</a> lo nominò prefetto della Biblioteca apostolica vaticana, carica che ricoprì per oltre venticinque anni. Nello stesso anno ottenne anche la nomina di bibliotecario membro in soprannumero della Pontificia accademia delle scienze (di cui divenne membro effettivo nel 1960), e l'anno seguente quella di consultore della Sacra congregazione dei riti per la sezione storica; più tardi divenne consultore della Sacra congregazione dei seminari e università e abate titolare di Ripoll.
 
 Molte le opere di rinnovamento e modernizzazione della Biblioteca
 vaticana portate a termine sotto la sua direzione: dotò il Laboratorio
