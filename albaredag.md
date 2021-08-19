@@ -1,7 +1,5 @@
 
-### Dizionario bio-bibliografico dei bibliotecari italiani del XX secolo
 
-<img src="albareda.jpg" alt="[Ritratto]" height="250" />
 
 ## Albareda, Anselmo Maria (Gioacchino, prima del noviziato)
 
