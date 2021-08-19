@@ -109,13 +109,4 @@ prefetto della "Vaticana"*. «Accademie e biblioteche d'Italia», 45
 Immagine tratta dall'*Almanacco dei bibliotecari italiani*, per gentile
 concessione della casa editrice Fratelli Palombi di Roma.
 
------
-
-[Copyright AIB](/su-questo-sito/dichiarazione-di-copyright-aib-web/)
-2000-12-26, ultimo aggiornamento 2020-04-28, a cura di [Simonetta
-Buttò](/aib/redazione3.htm) e [Alberto
-Petrucciani](/su-questo-sito/redazione-aib-web/)  
-**URL:** https://www.aib.it/aib/editoria/dbbi20/albareda.htm
-
------
 
