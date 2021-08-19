@@ -84,8 +84,7 @@ group of American scholars, edited by Sesto Prete. New York: Bernard M.
 Rosenthal, 1961. XIV, 530 p.: tav.
 
 *Collectanea Vaticana in honorem Anselmi M. card. Albareda a Bibliotheca
-apostolica edita*. Città del Vaticano: Biblioteca apostolica vaticana,
-1962. 2 vol. (511, 570 p.): tav. (Studi e testi; 219-220).
+apostolica edita*. Città del Vaticano: Biblioteca apostolica vaticana, 1962. 2 vol. (511, 570 p.): tav. (Studi e testi; 219-220).
 
 *Miscellania Anselm M. Albareda*. Montserrat: Abadia de Montserrat,
 1962-1964. 2 vol. (404, 455 p.): tav.
