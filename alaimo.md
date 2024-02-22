@@ -1,3 +1,10 @@
+---
+campo1: descrizione
+campo2: descrizione 2
+
+---
+
+
 ![\[Ritratto\]](alaimo.jpg){height="250"}
 
 ## Alaimo, Maria Emma (Emma)
