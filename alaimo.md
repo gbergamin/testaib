@@ -1,24 +1,3 @@
----
-description: Entry of the Biobibliographical dictionary of Italian
-  Twentieth-Century librarians
-keyword:
-- AIB
-- Associazione italiana biblioteche
-- Italian Library Association
-- DBBI20
-- Simonetta Butto\'
-- Dizionario bio-bibliografico dei bibliotecari italiani del ventesimo
-  secolo
-- Biobibliographical dictionary of Italian Twentieth-Century librarians
-title: AIB-WEB. DBBI20. Alaimo, Maria Emma
----
-
-
-
-------------------------------------------------------------------------
-
-
-
 ![\[Ritratto\]](alaimo.jpg){height="250"}
 
 ## Alaimo, Maria Emma (Emma)
@@ -85,19 +64,3 @@ di Palermo*.
 «[Mezzocielo»](https://www.mezzocielo.it/wp-content/uploads/2018/08/Mezzocielo-159-2018.pdf),
 n. 159 (estate 2018), p. 16.
 
-\
-
-------------------------------------------------------------------------
-
-[Copyright AIB](/su-questo-sito/dichiarazione-di-copyright-aib-web/)
-2000-04-19, ultimo aggiornamento 2022-08-29, a cura di [Simonetta
-Buttò](/aib/redazione3.htm) e [Alberto
-Petrucciani](/su-questo-sito/redazione-aib-web/)\
-**URL:** https://www.aib.it/aib/editoria/dbbi20/alaimo.htm
-
-------------------------------------------------------------------------
-
-::: {align="CENTER"}
-[AIB-WEB](/) \| [Pubblicazioni AIB](/pubblicazioni/) \| [DBBI20 Indice
-delle voci](dbbi20.htm)
-:::
