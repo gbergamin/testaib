@@ -13,13 +13,7 @@ keyword:
 title: AIB-WEB. DBBI20. Alaimo, Maria Emma
 ---
 
-![\[AIB\]](/aib/wi/aibv72.gif){align="LEFT" height="72" width="71"}
-** AIB. Pubblicazioni. DBBI20**\
 
-::: {align="CENTER"}
-[AIB-WEB](/) \| [Pubblicazioni AIB](/pubblicazioni/) \| [DBBI20 Indice
-delle voci](dbbi20.htm)
-:::
 
 ------------------------------------------------------------------------
 
