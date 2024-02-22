@@ -17,7 +17,7 @@ title: AIB-WEB. DBBI20. Alaimo, Maria Emma
 
 ------------------------------------------------------------------------
 
-### Dizionario bio-bibliografico dei bibliotecari italiani del XX secolo {#dizionario-bio-bibliografico-dei-bibliotecari-italiani-del-xx-secolo align="CENTER"}
+
 
 ![\[Ritratto\]](alaimo.jpg){height="250"}
 
